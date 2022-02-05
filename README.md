@@ -1,3 +1,3 @@
 # Tutorial Recetario
 
-Descripción del recetario
+Descripción del recetario!
